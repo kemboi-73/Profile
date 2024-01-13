@@ -114,8 +114,3 @@ function scrollActive() {
   })
 }
 
-window.addEventListener('scroll', scrollActive)
-
-document.addEventListener('DOMContentLoaded', function () {
-  document.body.classList.add('dark-mode');
-});
