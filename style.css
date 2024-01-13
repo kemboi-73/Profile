@@ -13,7 +13,7 @@
     --first-color-hover: rgb(40, 91, 212);
 
     --second-color: rgb(0, 201, 255);
-    --third-color: rgb(192, 166, 49);
+    --third-color: rgb(116, 49, 192);
     --first-shadow-color: rgba(0, 0, 0, 0.1);
 
 }
@@ -622,7 +622,7 @@ footer{
 
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 
-@media only screen and (max-width: 540px){
+@media only screen and (max-width: 480px){
     .featured-name{
         font-size: 40px;
     }
@@ -636,3 +636,10 @@ footer{
         width: 100%;
     }
 }
+
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    /* Additional styling for other elements in dark mode */
+  }
+  
