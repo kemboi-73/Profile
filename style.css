@@ -3,10 +3,10 @@
 
 /* ----- VARIABLES ----- */
 :root{
-    --body-color: rgb(0, 1, 1);
-    --color-white: rgb(0, 3, 3);
+    --body-color: rgb(243, 247, 247);
+    --color-white: rgb(245, 248, 248);
 
-    --text-color-second: rgb(247, 251, 251);
+    --text-color-second: rgb(0, 7, 7);
     --text-color-third: rgb(30, 159, 171);
 
     --first-color: rgb(110, 87, 224);
