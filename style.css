@@ -638,4 +638,13 @@ footer{
 }
 
 
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    /* Additional styling for other elements in dark mode */
+  }
+  
+  header, footer {
+    background-color: #333333;
+    color: #ffffff; }
   
