@@ -3,10 +3,10 @@
 
 /* ----- VARIABLES ----- */
 :root{
-    --body-color: rgb(12, 1, 1);
-    --color-white: rgb(18, 1, 1);
+    --body-color: rgb(0, 1, 1);
+    --color-white: rgb(0, 3, 3);
 
-    --text-color-second: rgb(68, 68, 68);
+    --text-color-second: rgb(247, 251, 251);
     --text-color-third: rgb(30, 159, 171);
 
     --first-color: rgb(110, 87, 224);
@@ -501,7 +501,7 @@ footer{
     align-items: center;
     flex-direction: column;
     row-gap: 30px;
-    background: #F8F8F8;
+    background: #0f0000;
     padding-block: 40px 60px;
 }
 .top-footer p{
